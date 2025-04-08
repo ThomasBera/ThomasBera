@@ -5,7 +5,7 @@
 <h2 align="center">Languages</h2>
 <div align="center">
  <br>
-    <img src="https://skillicons.dev/icons?i=html,angularjs,java,mysql" /></br>
+    <img src="https://skillicons.dev/icons?i=html,css" /></br>
 </div>
 
 <h2 align="center">Visitors Count</h2>
